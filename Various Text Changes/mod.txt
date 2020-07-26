@@ -14,6 +14,14 @@
 			"host": {
 				"meta": "https://github.com/TemApex/payday2-vtc/raw/master/meta.json"
 			}
+        },
+        {
+			"identifier": "vtc_assets",
+			"host": {
+				"meta": "https://github.com/TemApex/payday2-vtc/raw/master/meta.json"
+			},
+			"install_dir" : "assets/mod_overrides/",
+			"install_folder" : "VTC_Assets",
 		}
 	],
 	"hooks" : [

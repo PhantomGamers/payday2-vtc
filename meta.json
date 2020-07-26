@@ -5,4 +5,10 @@
 		"patchnotes_url" : "https://docs.google.com/document/d/1LG0CbpUT2tjNBH-HdFwX7OeSeOGDFKLA4EHgI7gy0-g",
 		"download_url" : "https://github.com/TemApex/payday2-vtc/raw/master/VTC.zip"
 	}
+	{
+		"ident" : "vtc_assets",
+		"hash" : "ff051dff7956d3ef00c37446b930321d37ecd91f647d7ed3a766d302245bc455",
+		"patchnotes_url" : "https://docs.google.com/document/d/1LG0CbpUT2tjNBH-HdFwX7OeSeOGDFKLA4EHgI7gy0-g",
+		"download_url" : "https://github.com/TemApex/payday2-vtc/raw/master/VTC_Assets.zip"
+	}
 ]
