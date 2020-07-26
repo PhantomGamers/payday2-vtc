@@ -21,7 +21,8 @@
 				"meta": "https://github.com/PhantomGamers/payday2-vtc/raw/test/meta.json"
 			},
 			"install_dir" : "assets/mod_overrides/",
-			"install_folder" : "VTC_Assets"
+			"install_folder" : "VTC_Assets",
+			"display_name" : "VTC_Assets"
 		}
 	],
 	"hooks" : [
