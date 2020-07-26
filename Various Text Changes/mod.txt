@@ -12,13 +12,13 @@
 			"identifier": "vtc",
 			"revision": 43,
 			"host": {
-				"meta": "https://github.com/TemApex/payday2-vtc/raw/master/meta.json"
+				"meta": "https://github.com/PhantomGamers/payday2-vtc/raw/test/meta.json"
 			}
         },
         {
 			"identifier": "vtc_assets",
 			"host": {
-				"meta": "https://github.com/TemApex/payday2-vtc/raw/master/meta.json"
+				"meta": "https://github.com/PhantomGamers/payday2-vtc/raw/test/meta.json"
 			},
 			"install_dir" : "assets/mod_overrides/",
 			"install_folder" : "VTC_Assets",

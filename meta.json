@@ -3,12 +3,12 @@
 		"ident" : "vtc",
 		"hash" : "114cae96a91147833b73cd823f14e74f686568bf3f0084ec4092419d51b17e96",
 		"patchnotes_url" : "https://docs.google.com/document/d/1LG0CbpUT2tjNBH-HdFwX7OeSeOGDFKLA4EHgI7gy0-g",
-		"download_url" : "https://github.com/TemApex/payday2-vtc/raw/master/VTC.zip"
+		"download_url" : "https://github.com/PhantomGamers/payday2-vtc/raw/test/VTC.zip"
 	}
 	{
 		"ident" : "vtc_assets",
 		"hash" : "ff051dff7956d3ef00c37446b930321d37ecd91f647d7ed3a766d302245bc455",
 		"patchnotes_url" : "https://docs.google.com/document/d/1LG0CbpUT2tjNBH-HdFwX7OeSeOGDFKLA4EHgI7gy0-g",
-		"download_url" : "https://github.com/TemApex/payday2-vtc/raw/master/VTC_Assets.zip"
+		"download_url" : "https://github.com/PhantomGamers/payday2-vtc/raw/test/VTC_Assets.zip"
 	}
 ]
